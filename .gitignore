@@ -1,0 +1,10 @@
+*.csv
+*.idea
+/datasets
+/knn_results
+*.bat
+/code/_pycache_/*
+*.pyc
+*.txt
+__init__.py
+Classifier_Results/
